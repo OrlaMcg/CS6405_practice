@@ -1,0 +1,19 @@
+
+import panda as pd 
+
+ 
+
+data  = { 
+
+‘names’ : [“bob”, “ken”, “mark”] 
+
+‘grades’ : [“90”, “88”, “70”] 
+
+} 
+
+ 
+
+data					
+
+Frame = pd.DataFrame(data) 
+
